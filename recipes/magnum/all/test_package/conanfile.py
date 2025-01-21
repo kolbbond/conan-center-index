@@ -1,5 +1,7 @@
-from conans import ConanFile, CMake, tools
-from conans.errors import ConanException
+#from conans import ConanFile, CMake, tools
+#from conans.errors import ConanException
+from conan import ConanFile, CMake, tools
+from conan.errors import ConanException
 import os
 
 
